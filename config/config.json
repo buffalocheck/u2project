@@ -1,0 +1,17 @@
+{
+    "development": {
+        "database": "poolapp_development",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "database": "poolapp_test",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "production": {
+        "database": "poolapp_production",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+}
